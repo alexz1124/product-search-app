@@ -67,7 +67,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['product_id'])) {
 
         body {
             font-family: 'Inter', sans-serif;
-            background-image: url('https://example.com/background.jpg');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
